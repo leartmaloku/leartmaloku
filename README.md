@@ -1,7 +1,9 @@
 👋 Hi, I’m Leart!
 
 👀 I’m interested in UX/UI Design and Front-End Coding Languages.
+
 💞️ I’m looking to collaborate on Design Projects.
+
 📫 How to reach me: Connect with me on LinkedIn!
 
 <!---
